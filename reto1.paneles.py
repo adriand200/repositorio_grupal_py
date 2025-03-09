@@ -1,4 +1,4 @@
-#Quizz
+#Quiz 1: Paneles solares
 #adrian Cañon
 #brayan Ladino
 #andres Ramirez
