@@ -26,7 +26,7 @@ superficie_total = Cantidad_paneles * Superficie_Panel
 print("La potencia diaria es: ", potencia_diaria, "KWh")
 print("La potencia anual es: ", potencia_anual, "KWh")
 print("La cantidad de paneles necesarios es: ", Cantidad_paneles)
-print("La superficie requerida para los paneles es de ", int(superficie_total), "M^2")
+print("La superficie requerida para los paneles es de ",superficie_total, "M^2")
 
 
 
